@@ -1,4 +1,4 @@
-# OBSS Rick And Morty Project Challenge app
+# Rick And Morty Project Challenge app
 
 ## Demonstration 
 
