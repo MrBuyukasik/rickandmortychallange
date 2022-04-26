@@ -1,0 +1,10 @@
+ext.versions = [
+        minSdk     : 21,
+        compileSdk : 32,
+        targetSdk  : 32,
+        versionCode: 1,
+        versionName: '1.0.0',
+        buildTools : '30.0.3',
+        jvmTarget  : '11'
+]
+

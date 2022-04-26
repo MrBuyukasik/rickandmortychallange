@@ -41,7 +41,7 @@ object AppInjector {
         if (activity is HasSupportFragmentInjector) {
             AndroidInjection.inject(activity)
         }
-        //Fragmentlar'ın injectable hale getirildiği yer.
+        //Makes fragments injectable.
         if (activity is FragmentActivity) {
             activity.supportFragmentManager
                 .registerFragmentLifecycleCallbacks(
