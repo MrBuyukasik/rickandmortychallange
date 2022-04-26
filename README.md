@@ -17,3 +17,4 @@ Short video demonstration: https://drive.google.com/file/d/1Pt4pOQDVEC46Ju-AT5VZ
 - [Picasso](https://github.com/sqare/picasso) for loading images
 - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) for LifeCycle management
 
+<img width="677" alt="architecture-diagram" src="https://user-images.githubusercontent.com/15179002/165284991-3897b6bf-ce82-4c31-a24b-1a4a58200eb6.png">
